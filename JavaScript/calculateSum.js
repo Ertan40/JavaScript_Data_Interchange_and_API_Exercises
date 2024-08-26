@@ -1,4 +1,4 @@
-1. Write a JavaScript function to calculate the sum of two numbers.
+// 1. Write a JavaScript function to calculate the sum of two numbers.
 
 function calculateSum () {
     let a = 4
