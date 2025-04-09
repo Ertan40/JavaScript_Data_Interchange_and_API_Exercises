@@ -11,10 +11,10 @@ const BACKUP_FILE = "data_backup.json";
 const LOG_FILE = "log.txt";
 
 const DB_CONFIG = {
-  database: "users_db",
-  user: "postgres-user",
-  password: "password",
-  host: "localhost",
+  database: "your_db_name",
+  user: "your_user",
+  password: "your_password",
+  host: "your_host",
   port: 5432,
 };
 
